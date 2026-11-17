@@ -1,0 +1,43 @@
+Suno UPI - Privacy Policy,
+
+Effective Date: November 17, 2026
+
+Chhotu Kumar ("we", "our", or "us") built the Suno UPI app as a Free application. This SERVICE is provided by Chhotu Kumar at no cost and is intended for use as is.
+
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+
+1. Information Collection and Use
+For a better experience, while using our Service, we may require you to provide us with certain permissions and data access. The information that we request is retained on your device and is not collected by us on any external servers.
+
+Payment Notification Access (Core Feature):
+Suno UPI reads payment notification messages received on your device (from apps like PhonePe, Google Pay, Paytm, BHIM, Amazon Pay, etc.) solely and exclusively to announce payment alert amounts via Text-to-Speech (TTS) audio. We do not use this access for any other purpose.
+
+2. Data Security & Financial Privacy
+We respect your financial privacy strictly:
+
+NO Personal Data Storage: We DO NOT store, collect, or share your personal banking details, bank account numbers, UPI PINs, passwords, OTPs, or financial transaction logs on any external or remote servers.
+
+Local Processing: All notification parsing and text-to-speech conversion happen 100% locally on your physical device. Your financial data never leaves your phone.
+
+3. Permissions Used by the App
+Notification Listener Access: Required solely to detect incoming UPI transaction and payment confirmation alerts so the app can instantly speak the amount out loud.
+
+Internet Access: Used exclusively for serving third-party advertisements (via Google AdMob) and checking application status updates.
+
+4. Third-Party Services & AdMob
+The app does use third-party services that may collect information used to identify you.
+
+Google AdMob: We integrate Google AdMob to display banner or interstitial advertisements to support the free nature of this app. AdMob may use device identifiers and advertising IDs to show relevant ads according to Google's policies. You can review Google's privacy policy regarding ads for more details.
+
+5. Children's Privacy
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
+
+6. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+7. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
+
+Developer: Chhotu Kumar
+
+Email: chhotukumarom93@gmail.com
